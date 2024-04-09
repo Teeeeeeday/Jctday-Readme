@@ -18,3 +18,4 @@ This is a list of all assignments that I have completed in Data Analytics
 ### Module 7 : Clustering and Segmentation
 [A6 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1tN5-jfx1LQqUS6N8cV-aA2CHx_iYSqaE?usp=drive_link)
 ### Module 8 : Use GitHub to Create Your Assignment Portfolio
+[A7 Use GitHub to Create Your Assignment Portfolio](https://github.com/Teeeeeeday/Jctday-Readme)
